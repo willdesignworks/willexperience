@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/willexperience/static/css/main.5eec7d51.css",
-    "main.js": "/willexperience/static/js/main.23100424.js",
+    "main.js": "/willexperience/static/js/main.a2232e5a.js",
     "static/media/will_works_ 20240603.pdf": "/willexperience/static/media/will_works_ 20240603.cfc493ae74a439f82989.pdf",
     "static/media/home_anime.f372ef86.gif": "/willexperience/static/media/home_anime.f372ef86.f372ef867ab6dc71a52b.gif",
     "static/media/single_cht_img_06.jpg": "/willexperience/static/media/single_cht_img_06.5f2a807f54aba85fcf4a.jpg",
@@ -68,10 +68,10 @@
     "static/media/single_bq_blogimg_05.jpg": "/willexperience/static/media/single_bq_blogimg_05.036d0298a202e6cbd27f.jpg",
     "index.html": "/willexperience/index.html",
     "main.5eec7d51.css.map": "/willexperience/static/css/main.5eec7d51.css.map",
-    "main.23100424.js.map": "/willexperience/static/js/main.23100424.js.map"
+    "main.a2232e5a.js.map": "/willexperience/static/js/main.a2232e5a.js.map"
   },
   "entrypoints": [
     "static/css/main.5eec7d51.css",
-    "static/js/main.23100424.js"
+    "static/js/main.a2232e5a.js"
   ]
 }
