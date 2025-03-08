@@ -8,7 +8,7 @@ import ProjectsUx from './pages/ProjectsUx.jsx';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename="/willexperience"> {/* 這裡設置了 basename */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/projectsweb/:id" element={<ProjectsWeb />} />
