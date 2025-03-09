@@ -51,10 +51,10 @@ const ProjectsWeb = () => {
 
   useEffect(() => {
     const selectedProject = projects.find((project) => project.id === parseInt(id, 10));
-    setProject(selectedProject || null);
+    setProject(selectedProject || null); // 如果找不到對應專案，設置為 null
   }, [id]);
 
-  // 預防 project 為 null
+  // 如果沒有找到對應專案，顯示錯誤提示
   if (!project) {
     return <p>找不到專案資料...</p>;
   }
