@@ -80,6 +80,10 @@ const ProjectsSocialMedia = () => {
   const [project, setProject] = useState(null);
 
   useEffect(() => {
+    /* 每次 id 改變時，將滾動條位置設置回頂部*/
+    window.scrollTo(0, 0);
+    
+    // 根據 id 查找對應的專案資料
     const selectedProject = projects.find((project) => project.id === parseInt(id, 10));
     setProject(selectedProject || null);
   }, [id]);
