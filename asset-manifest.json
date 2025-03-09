@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://willdesignworks.github.io/willexperience/static/css/main.fc2686bc.css",
-    "main.js": "https://willdesignworks.github.io/willexperience/static/js/main.3bd37906.js",
+    "main.css": "https://willdesignworks.github.io/willexperience/static/css/main.bfb9903c.css",
+    "main.js": "https://willdesignworks.github.io/willexperience/static/js/main.b0baae28.js",
     "static/media/will_works_ 20240603.pdf": "https://willdesignworks.github.io/willexperience/static/media/will_works_ 20240603.cfc493ae74a439f82989.pdf",
     "static/media/home_anime.f372ef86.gif": "https://willdesignworks.github.io/willexperience/static/media/home_anime.f372ef86.f372ef867ab6dc71a52b.gif",
     "static/media/single_cht_img_06.jpg": "https://willdesignworks.github.io/willexperience/static/media/single_cht_img_06.5f2a807f54aba85fcf4a.jpg",
@@ -67,11 +67,11 @@
     "static/media/single_bq_imgedm_02.jpg": "https://willdesignworks.github.io/willexperience/static/media/single_bq_imgedm_02.8e11f85ff9eb8fed4a51.jpg",
     "static/media/single_bq_blogimg_05.jpg": "https://willdesignworks.github.io/willexperience/static/media/single_bq_blogimg_05.036d0298a202e6cbd27f.jpg",
     "index.html": "https://willdesignworks.github.io/willexperience/index.html",
-    "main.fc2686bc.css.map": "https://willdesignworks.github.io/willexperience/static/css/main.fc2686bc.css.map",
-    "main.3bd37906.js.map": "https://willdesignworks.github.io/willexperience/static/js/main.3bd37906.js.map"
+    "main.bfb9903c.css.map": "https://willdesignworks.github.io/willexperience/static/css/main.bfb9903c.css.map",
+    "main.b0baae28.js.map": "https://willdesignworks.github.io/willexperience/static/js/main.b0baae28.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc2686bc.css",
-    "static/js/main.3bd37906.js"
+    "static/css/main.bfb9903c.css",
+    "static/js/main.b0baae28.js"
   ]
 }
