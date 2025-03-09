@@ -26,6 +26,10 @@ header {
   left: 5rem;
   bottom: 1rem;
 }
+.icon-color-primary {
+  color: var(--color-primary);
+  transform: scale(1.2);
+}
 
 .header__socials::after {
   content: '';
